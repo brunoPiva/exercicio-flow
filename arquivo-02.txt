@@ -1,3 +1,4 @@
 Exemplo feature-f3
 Exemplo feature-f2
 
+Bugfix correcao 1.0.0
